@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/IceCreamScoop/static/css/main.b5627038.css",
+    "main.js": "/IceCreamScoop/static/js/main.7b5ae37d.js",
+    "static/media/IceCream4.jpg": "/IceCreamScoop/static/media/IceCream4.e051c5e01533bc6fee04.jpg",
+    "static/media/IceCream1.jpg": "/IceCreamScoop/static/media/IceCream1.0e535dbc4fe4b312c307.jpg",
+    "static/media/IceCream2.jpg": "/IceCreamScoop/static/media/IceCream2.3d39544da5cf5fd5b4e2.jpg",
+    "static/media/IceCream.jpg": "/IceCreamScoop/static/media/IceCream.1ebc42442bd49bfad001.jpg",
+    "static/media/flavor13.png": "/IceCreamScoop/static/media/flavor13.1931d8b1267840c54b8d.png",
+    "static/media/dairyfreecollection.jpg": "/IceCreamScoop/static/media/dairyfreecollection.5e03edeef6112deb43d7.jpg",
+    "static/media/flavor8.png": "/IceCreamScoop/static/media/flavor8.ed3e05d2d4680c9a6615.png",
+    "static/media/flavor16.png": "/IceCreamScoop/static/media/flavor16.eeab6cb31ced1bae095e.png",
+    "static/media/seasoncollection.jpg": "/IceCreamScoop/static/media/seasoncollection.1ac10a75b6c1c6a47a63.jpg",
+    "static/media/flavor10.png": "/IceCreamScoop/static/media/flavor10.b7ff729ef6d630730d16.png",
+    "static/media/flavor14.png": "/IceCreamScoop/static/media/flavor14.cf6a6b5f65301bf14fe3.png",
+    "static/media/flavor11.png": "/IceCreamScoop/static/media/flavor11.b810ea603c192935ea70.png",
+    "static/media/flavor5.png": "/IceCreamScoop/static/media/flavor5.254625bd9274205420d5.png",
+    "static/media/flavor15.png": "/IceCreamScoop/static/media/flavor15.3f77407fe396e87738d1.png",
+    "static/media/flavor9.png": "/IceCreamScoop/static/media/flavor9.1ed34507398147bc0eff.png",
+    "static/media/flavor3.png": "/IceCreamScoop/static/media/flavor3.a4afb7ed5c5bc69d598e.png",
+    "static/media/flavor4.png": "/IceCreamScoop/static/media/flavor4.51083854ff3b6e375066.png",
+    "static/media/flavor1.png": "/IceCreamScoop/static/media/flavor1.8629a99cf3916d8a914d.png",
+    "static/media/flavor6.png": "/IceCreamScoop/static/media/flavor6.2995d5d9f998e9e510b8.png",
+    "static/media/flavor12.png": "/IceCreamScoop/static/media/flavor12.a7484ef4d990b4d76edc.png",
+    "static/media/flavor7.png": "/IceCreamScoop/static/media/flavor7.2a70ca657ca73fbf48a5.png",
+    "static/media/flavor2.png": "/IceCreamScoop/static/media/flavor2.600a5b80bd9016566f4e.png",
+    "static/media/topsellercollection.jpg": "/IceCreamScoop/static/media/topsellercollection.d26a9bd3dc62396d1e84.jpg",
+    "index.html": "/IceCreamScoop/index.html",
+    "main.b5627038.css.map": "/IceCreamScoop/static/css/main.b5627038.css.map",
+    "main.7b5ae37d.js.map": "/IceCreamScoop/static/js/main.7b5ae37d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5627038.css",
+    "static/js/main.7b5ae37d.js"
+  ]
+}
