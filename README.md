@@ -2,4 +2,4 @@
 
 Ecommerce web application- Ice Cream Scoop! 
 
-![Screenshot](/src/ScreenShot.png)
+![Screenshot](/src/Screenshot.png)
