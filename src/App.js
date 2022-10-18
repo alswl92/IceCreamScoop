@@ -45,7 +45,7 @@ function handleRemoveProduct(product){
         <Announcement/>
         <Navbar cartItems = {cartItems}/>
         <Routes productItems = {productItems} cartItems = {cartItems} handleAddProduct = {handleAddProduct} handleRemoveProduct ={handleRemoveProduct}>
-            <Route path='/' element = {
+            <Route path='/IceCreamScoop' element = {
             <Homepage 
             productItems={productItems} 
             handleAddProduct = {handleAddProduct}/>} />
