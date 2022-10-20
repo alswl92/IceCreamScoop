@@ -41,7 +41,7 @@ const Navbar = ({cartItems}) => {
         <Wrapper>
             <Nav>
                 <NavLink style={({isActive})=> {
-                    return isActive ? {color: '#2E8364'} : {color: '#E17E76'}}} to ='/'>Home</NavLink>
+                    return isActive ? {color: '#2E8364'} : {color: '#E17E76'}}} to ='/IceCreamScoop'>Home</NavLink>
                 <NavLink style={({isActive})=> {
                     return isActive ? {color: '#2E8364'} : {color: '#E17E76'}}} to ='/products'>Products</NavLink>
             </Nav>
